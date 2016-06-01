@@ -1,3 +1,3 @@
 # That Special Flavor
 
-Contributors: Michaella Bardi, Brandon Nealey
+Contributors: Michaella Bardi, Brandon Nealey.
