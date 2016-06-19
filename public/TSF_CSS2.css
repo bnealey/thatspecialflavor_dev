@@ -36,7 +36,10 @@ header {
 	color: #E9FAE3;
 	text-align: center;
 	margin: 10px 0;
-	padding: 0 5px 10px;
+	padding-top: 10px;
+	padding-right: 5px;
+	padding-left: 5px;
+	padding-bottom: 10px;
 	max-width: 100%;
 	font-family: source-sans-pro;
 	font-variant: small-caps;
@@ -59,18 +62,26 @@ header {
 	max-width: 7%;
 	min-width: 25px;
 	float: right;
-	padding: 2px 0 0 2px;
+	padding-top: 10px;
+	padding-right: 3px;
+	padding-left: 3px;
+	padding-bottom: 10px;
 	margin-right: 2px;
+	margin-top: 10px;
+	margin-bottom: 10px;
 }
 
-a img {
-	max-width: 50%;
-	min-width: 50%;
-	margin: 0 5% 0 0;
+
+#logo img{
+	max-width: 40%;
+	min-width: 40%;
+	margin-top: 10px;
+	margin-right: 4%;
+	margin-left: 10px;
+	margin-bottom: 10px;
 	float: left;
 	clear: left;
 }
-
 
 #titlelink {
 	color: #E9FAE3;
@@ -193,7 +204,10 @@ h3 {
 
 #menu ul {
 	list-style-type: none;
-	padding: 0;
+	padding-top: 10px;
+	padding-right: 10px;
+	padding-left: 10px;
+	padding-bottom: 10px;
 	display: block;
 	font-variant: small-caps;
 	text-align: center;
@@ -348,11 +362,11 @@ footer {
 	text-decoration: none;
 	color: #A499B3;
 	background-color: #38023B;
-	width: 25%;
+	width: 33.3%;
 	display: block;
 	float: left;
-	padding-top: 0;
-	padding-bottom: 0;
+	padding-top: 10px;
+	padding-bottom: 5px;
 	letter-spacing: 0;
 	margin-bottom: 0;
 	word-spacing: 0;
@@ -388,11 +402,11 @@ footer {
 	text-decoration: none;
 	color: #A499B3;
 	background-color: #38023B;
-	width: 33.3%;
+	width: 50%;
 	display: block;
 	float: left;
-	padding-top: 0;
-	padding-bottom: 0;
+	padding-top: 10px;
+	padding-bottom: 10px;
 	letter-spacing: 0;
 	margin-bottom: 0;
 	word-spacing: 0;
