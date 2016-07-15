@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pgr:powergrep xmlns:pgr="http://www.powergrep.com/powergrep42.xsd" version="4.2">
+	<sequencefile>
+		<step>
+			<action actiontype="rename" searchtype="literal" concurrent="1" targettype="copy modified" backuptype="same" backupdest="folder tree" backuplocation="C:\Users\M\OneDrive\search-and-replaced-backups">
+				<searchtext/>
+				<replacetext/>
+			</action>
+		</step>
+		<step fileselection="step" fileselectionstep="0">
+			<action actiontype="replace" searchtype="literal" concurrent="1" targettype="same" backuptype="same" backupdest="folder tree" backuplocation="C:\Users\M\OneDrive\search-and-replaced-backups">
+				<searchtext/>
+				<replacetext/>
+				<sectioning sectiontype="whole file"/>
+				<context contexttype="none" numbering="1"/>
+			</action>
+		</step>
+	</sequencefile>
+</pgr:powergrep>
