@@ -1,174 +1,363 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url>
-    <loc>https://thatspecialflavor.com/</loc>
-  </url>
-  <url>
-    <loc>https://thatspecialflavor.com/About-Us.html</loc>
-  </url>
-  <url>
-    <loc>https://thatspecialflavor.com/Affiliate-Disclosure.html</loc>
-  </url>
-  <url>
-    <loc>https://thatspecialflavor.com/Booze-Reviews.html</loc>
-  </url>
-  <url>
-    <loc>https://thatspecialflavor.com/Cocktail-Recipes.html</loc>
-  </url>
-  <url>
-    <loc>https://thatspecialflavor.com/Noms.html</loc>
-  </url>
-  <url>
-    <loc>https://thatspecialflavor.com/Posts/CiderCreek_fallncherry.html</loc>
-  </url>
-  <url>
-    <loc>https://thatspecialflavor.com/Posts/CitizenCider_FullNelson.html</loc>
-  </url>
-  <url>
-    <loc>https://thatspecialflavor.com/Posts/Fiddlehead-Brewing_Second-Fiddle.html</loc>
-  </url>
-  <url>
-    <loc>https://thatspecialflavor.com/Posts/hops_for_hunger_vermont_ipas.html</loc>
-  </url>
-  <url>
-    <loc>https://thatspecialflavor.com/Posts/july_4th.html</loc>
-  </url>
-  <url>
-    <loc>https://thatspecialflavor.com/Posts/Narragansett_Dels_Shandy.html</loc>
-  </url>
-  <url>
-    <loc>https://thatspecialflavor.com/Posts/new_belgium_pumpkick.html</loc>
-  </url>
-  <url>
-    <loc>https://thatspecialflavor.com/Posts/NinePin_FruitOfTheForest.html</loc>
-  </url>
-  <url>
-    <loc>https://thatspecialflavor.com/Posts/NinePin_Raspberry.html</loc>
-  </url>
-  <url>
-    <loc>https://thatspecialflavor.com/Posts/NinePin_Signature_Ginger.html</loc>
-  </url>
-  <url>
-    <loc>https://thatspecialflavor.com/Recipes/Cocktails/Amaretto-Sour.html</loc>
-  </url>
-  <url>
-    <loc>https://thatspecialflavor.com/Recipes/Cocktails/apple_cider_sangria.html</loc>
-  </url>
-  <url>
-    <loc>https://thatspecialflavor.com/Recipes/Cocktails/chai_lattetini.html</loc>
-  </url>
-  <url>
-    <loc>https://thatspecialflavor.com/Recipes/Cocktails/cilantro_margarita.html</loc>
-  </url>
-  <url>
-    <loc>https://thatspecialflavor.com/Recipes/Cocktails/fall_over.html</loc>
-  </url>
-  <url>
-    <loc>https://thatspecialflavor.com/Recipes/Cocktails/ginger_lemon_berry_martini.html</loc>
-  </url>
-  <url>
-    <loc>https://thatspecialflavor.com/Recipes/Cocktails/Italian_greyhound_martini.html</loc>
-  </url>
-  <url>
-    <loc>https://thatspecialflavor.com/Recipes/Cocktails/keylime_daiquiri.html</loc>
-  </url>
-  <url>
-    <loc>https://thatspecialflavor.com/Recipes/Cocktails/lime_in_coconut.html</loc>
-  </url>
-  <url>
-    <loc>https://thatspecialflavor.com/Recipes/Cocktails/meyer_lemon_margarita.html</loc>
-  </url>
-  <url>
-    <loc>https://thatspecialflavor.com/Recipes/Cocktails/mimosas.html</loc>
-  </url>
-  <url>
-    <loc>https://thatspecialflavor.com/Recipes/Cocktails/pineapple_rosemary_liqueur.html</loc>
-  </url>
-  <url>
-    <loc>https://thatspecialflavor.com/Recipes/Cocktails/pineapple_rosemary_martini.html</loc>
-  </url>
-  <url>
-    <loc>https://thatspecialflavor.com/Recipes/Cocktails/pineapple_upsidedown_cake.html</loc>
-  </url>
-  <url>
-    <loc>https://thatspecialflavor.com/Recipes/Cocktails/pomegranate_paloma.html</loc>
-  </url>
-  <url>
-    <loc>https://thatspecialflavor.com/Recipes/Cocktails/pumpkin_martini.html</loc>
-  </url>
-  <url>
-    <loc>https://thatspecialflavor.com/Recipes/Cocktails/raspberries_3_ways.html</loc>
-  </url>
-  <url>
-    <loc>https://thatspecialflavor.com/Recipes/Cocktails/raspberry_manhattan.html</loc>
-  </url>
-  <url>
-    <loc>https://thatspecialflavor.com/Recipes/Cocktails/sourpatch_margarita.html</loc>
-  </url>
-  <url>
-    <loc>https://thatspecialflavor.com/Recipes/Cocktails/tuscan_sunset.html</loc>
-  </url>
-  <url>
-    <loc>https://thatspecialflavor.com/Recipes/Noms/Alfredo-Mac-and-Cheese.html</loc>
-  </url>
-  <url>
-    <loc>https://thatspecialflavor.com/Recipes/Noms/Alfredo-Mac-and-Cheese.amp.html</loc>
-  </url>
-  <url>
-    <loc>https://thatspecialflavor.com/Recipes/Noms/Almond-Cookies.html</loc>
-  </url>
-  <url>
-    <loc>https://thatspecialflavor.com/Recipes/Noms/bacon_cheddar_donuts.html</loc>
-  </url>
-  <url>
-    <loc>https://thatspecialflavor.com/Recipes/Noms/banana_bread.html</loc>
-  </url>
-  <url>
-    <loc>https://thatspecialflavor.com/Recipes/Noms/bbq_turkey_legs.html</loc>
-  </url>
-  <url>
-    <loc>https://thatspecialflavor.com/Recipes/Noms/citrus_olive_oil_cake.html</loc>
-  </url>
-  <url>
-    <loc>https://thatspecialflavor.com/Recipes/Noms/coconut_lime_cookies.html</loc>
-  </url>
-  <url>
-    <loc>https://thatspecialflavor.com/Recipes/Noms/crab_rangoon.html</loc>
-  </url>
-  <url>
-    <loc>https://thatspecialflavor.com/Recipes/Noms/cranberry_orange_nut_bread.html</loc>
-  </url>
-  <url>
-    <loc>https://thatspecialflavor.com/Recipes/Noms/eclairs.html</loc>
-  </url>
-  <url>
-    <loc>https://thatspecialflavor.com/Recipes/Noms/moussaka.html</loc>
-  </url>
-  <url>
-    <loc>https://thatspecialflavor.com/Recipes/Noms/pumpkin_bread.html</loc>
-  </url>
-  <url>
-    <loc>https://thatspecialflavor.com/Recipes/Noms/pumpkin_oatmeal_cookies.html</loc>
-  </url>
-  <url>
-    <loc>https://thatspecialflavor.com/Recipes/Noms/pumpkin_pecan_pie.html</loc>
-  </url>
-  <url>
-    <loc>https://thatspecialflavor.com/Recipes/Noms/pumpkin_roasted_almonds.html</loc>
-  </url>
-  <url>
-    <loc>https://thatspecialflavor.com/Recipes/Noms/spice_cake.html</loc>
-  </url>
-  <url>
-    <loc>https://thatspecialflavor.com/Recipes/Noms/white_pizza.html</loc>
-  </url>
-  <url>
-    <loc>https://thatspecialflavor.com/Posts/Galway-Rock-Winery_Falling-Rock-Red-Blend.html</loc>
-  </url>
-  <url>
-    <loc>https://thatspecialflavor.com/Privacy-Policy.html</loc>
-  </url>
-  <url>
-    <loc>https://thatspecialflavor.com/Terms-of-Service.html</loc>
-  </url>
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+<url>
+  <loc>https://thatspecialflavor.com/</loc>
+  <lastmod>2016-07-31T03:23:53+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://thatspecialflavor.com/Contact-Form.html</loc>
+  <lastmod>2016-07-31T03:23:27+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://thatspecialflavor.com/index.html</loc>
+  <lastmod>2016-07-31T03:23:53+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://thatspecialflavor.com/Booze-Reviews.html</loc>
+  <lastmod>2016-07-31T03:23:27+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://thatspecialflavor.com/Cocktail-Recipes.html</loc>
+  <lastmod>2016-07-31T03:23:27+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://thatspecialflavor.com/Noms.html</loc>
+  <lastmod>2016-07-31T03:23:27+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://thatspecialflavor.com/Recipes/Noms/Kiwi-Lime-Pie.html</loc>
+  <lastmod>2016-07-31T03:23:28+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://thatspecialflavor.com/Reviews/Beer/Hops-For-Hunger_Vermont-IPAs.html</loc>
+  <lastmod>2016-07-31T03:23:27+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://thatspecialflavor.com/Recipes/Cocktails/Lime-in-the-Coconut.html</loc>
+  <lastmod>2016-07-31T03:23:27+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://thatspecialflavor.com/Recipes/Noms/Chai-Spice-Roasted-Almonds.html</loc>
+  <lastmod>2016-07-31T03:23:28+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://thatspecialflavor.com/Recipes/Cocktails/Ginger-Lemon-Berry-Martini.html</loc>
+  <lastmod>2016-07-31T03:23:27+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://thatspecialflavor.com/About-Us.html</loc>
+  <lastmod>2016-07-31T03:23:28+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://thatspecialflavor.com/Privacy-Policy.html</loc>
+  <lastmod>2016-07-31T03:23:27+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://thatspecialflavor.com/Terms-of-Service.html</loc>
+  <lastmod>2016-07-31T03:23:28+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://thatspecialflavor.com/Reviews/Hard-Cider/Cider-Creek_Fall-n-Cherry.html</loc>
+  <lastmod>2016-07-31T03:23:27+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://thatspecialflavor.com/Reviews/Hard-Cider/Citizen-Cider_Full-Nelson.html</loc>
+  <lastmod>2016-07-31T03:23:27+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://thatspecialflavor.com/Reviews/Beer/Fiddlehead-Brewing_Second-Fiddle.html</loc>
+  <lastmod>2016-07-31T03:23:27+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://thatspecialflavor.com/Reviews/Beer/Narragansett_Dels-Shandy.html</loc>
+  <lastmod>2016-07-31T03:23:27+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://thatspecialflavor.com/Reviews/Beer/New-Belgium_Pumpkick.html</loc>
+  <lastmod>2016-07-31T03:23:27+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://thatspecialflavor.com/Reviews/Hard-Cider/Nine-Pin_Signature-Ginger.html</loc>
+  <lastmod>2016-07-31T03:23:27+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://thatspecialflavor.com/Reviews/Hard-Cider/Nine-Pin_Fruit-of-the-Forest.html</loc>
+  <lastmod>2016-07-31T03:23:27+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://thatspecialflavor.com/Reviews/Hard-Cider/Nine-Pin_Raspberry.html</loc>
+  <lastmod>2016-07-31T03:23:27+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://thatspecialflavor.com/Reviews/Beer/July-4th-Flight-at-Henry-Street-Taproom.html</loc>
+  <lastmod>2016-07-31T03:23:27+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://thatspecialflavor.com/Reviews/Wine/Galway-Rock-Winery_Falling-Rock-Red-Blend.html</loc>
+  <lastmod>2016-07-31T03:23:27+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://thatspecialflavor.com/Recipes/Cocktails/Amaretto-Sour.html</loc>
+  <lastmod>2016-07-31T03:23:27+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://thatspecialflavor.com/Recipes/Cocktails/Apple-Cider-Sangria.html</loc>
+  <lastmod>2016-07-31T03:23:27+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://thatspecialflavor.com/Recipes/Cocktails/Chai-Lattetini.html</loc>
+  <lastmod>2016-07-31T03:23:27+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://thatspecialflavor.com/Recipes/Cocktails/Cilantro-Lime-Margarita.html</loc>
+  <lastmod>2016-07-31T03:23:27+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://thatspecialflavor.com/Recipes/Cocktails/Fall-Over.html</loc>
+  <lastmod>2016-07-31T03:23:27+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://thatspecialflavor.com/Recipes/Cocktails/Italian-Greyhound-Martini.html</loc>
+  <lastmod>2016-07-31T03:23:27+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://thatspecialflavor.com/Recipes/Cocktails/Keylime-Daiquiri.html</loc>
+  <lastmod>2016-07-31T03:23:27+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://thatspecialflavor.com/Recipes/Cocktails/Meyer-Lemon-Margarita.html</loc>
+  <lastmod>2016-07-31T03:23:27+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://thatspecialflavor.com/Recipes/Cocktails/Mimosas.html</loc>
+  <lastmod>2016-07-31T03:23:27+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://thatspecialflavor.com/Recipes/Cocktails/Pineapple-Rosemary-Liqueur.html</loc>
+  <lastmod>2016-07-31T03:23:27+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://thatspecialflavor.com/Recipes/Cocktails/Pineapple-Rosemary-Martini.html</loc>
+  <lastmod>2016-07-31T03:23:27+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://thatspecialflavor.com/Recipes/Cocktails/Pineapple-Upsidedown-Cake-Cocktail.html</loc>
+  <lastmod>2016-07-31T03:23:27+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://thatspecialflavor.com/Recipes/Cocktails/Pomegranate-Paloma.html</loc>
+  <lastmod>2016-07-31T03:23:28+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://thatspecialflavor.com/Recipes/Cocktails/Pumpkin-Martini.html</loc>
+  <lastmod>2016-07-31T03:23:27+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://thatspecialflavor.com/Recipes/Cocktails/Raspberries-3-Ways.html</loc>
+  <lastmod>2016-07-31T03:23:27+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://thatspecialflavor.com/Recipes/Cocktails/Raspberry-Manhattan.html</loc>
+  <lastmod>2016-07-31T03:23:27+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://thatspecialflavor.com/Recipes/Cocktails/Sourpatch-Margarita.html</loc>
+  <lastmod>2016-07-31T03:23:27+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://thatspecialflavor.com/Recipes/Cocktails/Tuscan-Sunset.html</loc>
+  <lastmod>2016-07-31T03:23:27+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://thatspecialflavor.com/Recipes/Noms/Almond-Cookies-with-Royal-Icing.html</loc>
+  <lastmod>2016-07-31T03:23:28+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://thatspecialflavor.com/Recipes/Noms/Banana-Nut-Bread.html</loc>
+  <lastmod>2016-07-31T03:23:28+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://thatspecialflavor.com/Recipes/Noms/Chocolate-Eclairs.html</loc>
+  <lastmod>2016-07-31T03:23:28+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://thatspecialflavor.com/Recipes/Noms/Citrus-Olive-Oil-Cake.html</loc>
+  <lastmod>2016-07-31T03:23:28+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://thatspecialflavor.com/Recipes/Noms/Coconut-Lime-Cookies.html</loc>
+  <lastmod>2016-07-31T03:23:27+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://thatspecialflavor.com/Recipes/Noms/Cranberry-Orange-Nut-Bread.html</loc>
+  <lastmod>2016-07-31T03:23:28+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://thatspecialflavor.com/Recipes/Noms/Pumpkin-Cranberry-Bread.html</loc>
+  <lastmod>2016-07-31T03:23:28+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://thatspecialflavor.com/Recipes/Noms/Pumpkin-Oatmeal-Cookies.html</loc>
+  <lastmod>2016-07-31T03:23:28+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://thatspecialflavor.com/Recipes/Noms/Pumpkin-Pecan-Pie.html</loc>
+  <lastmod>2016-07-31T03:23:28+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://thatspecialflavor.com/Recipes/Noms/Spice-Cake.html</loc>
+  <lastmod>2016-07-31T03:23:28+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://thatspecialflavor.com/Recipes/Noms/Bacon-Cheddar-Donuts.html</loc>
+  <lastmod>2016-07-31T03:23:28+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://thatspecialflavor.com/Recipes/Noms/Alfredo-Mac-and-Cheese.html</loc>
+  <lastmod>2016-07-31T03:23:28+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://thatspecialflavor.com/Recipes/Noms/Crab-Rangoon.html</loc>
+  <lastmod>2016-07-31T03:23:28+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://thatspecialflavor.com/Recipes/Noms/Barbecue-Turkey-Legs.html</loc>
+  <lastmod>2016-07-31T03:23:28+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://thatspecialflavor.com/Recipes/Noms/White-Pizza.html</loc>
+  <lastmod>2016-07-31T03:23:28+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://thatspecialflavor.com/Recipes/Noms/Moussaka-with-Greek-Salad.html</loc>
+  <lastmod>2016-07-31T03:23:28+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://thatspecialflavor.com/Affiliate-Disclosure.html</loc>
+  <lastmod>2016-07-31T03:23:27+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.64</priority>
+</url>
 </urlset>
