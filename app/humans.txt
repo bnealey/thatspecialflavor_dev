@@ -1,0 +1,17 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# TEAM
+
+  Brandon Nealey -- Head Dreamer -- @mykizz
+  Michaella Bardi -- ALL THE THINGS -- @kay_kays
+
+# THANKS
+
+  To our parents, who we love more than anything.
+  To our siblings, who we love more than anything.
+  To our cats, who we love more than anything.
+
+# TECHNOLOGY COLOPHON
+
+  HTML5, CSS3

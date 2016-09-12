@@ -1,0 +1,25 @@
+{
+  "version": "0.1.0",
+  "name": "That Special Flavor",
+  "launch_path": "/index.html",
+  "description": "A universal app that helps you discover the tasty things to eat 🍰 and drink 🍸.",
+  "icons": {
+    "128": "/images/touch/icon-128x128.png"
+  },
+  "developer": {
+    "name": "KittyXXL",
+    "url": "https://thatspecialflavor.com"
+  },
+  "installs_allowed_from": [
+    "*"
+  ],
+  "default_locale": "en",
+  "permissions": {
+  },
+  "locales": {
+    "en": {
+      "name": "That Special Flavor",
+      "description": "A universal app that helps you discover tasty things to eat 🍰 and drink 🍸."
+    }
+  }
+}
